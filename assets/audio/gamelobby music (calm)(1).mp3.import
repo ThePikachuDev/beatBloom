@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dj00p5cw30qp1"
+path="res://.godot/imported/gamelobby music (calm)(1).mp3-1d360b0b91cea3b79dfce20ed43d6578.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/gamelobby music (calm)(1).mp3"
+dest_files=["res://.godot/imported/gamelobby music (calm)(1).mp3-1d360b0b91cea3b79dfce20ed43d6578.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bts3r4xwwrqvm"
+path="res://.godot/imported/correct button higher option.mp3-fe9e2e7a7c23a1eed7b49c91916bbc45.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/correct button higher option.mp3"
+dest_files=["res://.godot/imported/correct button higher option.mp3-fe9e2e7a7c23a1eed7b49c91916bbc45.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

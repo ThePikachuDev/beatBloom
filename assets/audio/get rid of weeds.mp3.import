@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dflbg1g8fjob8"
+path="res://.godot/imported/get rid of weeds.mp3-c7dfb9a29a7e34d3b115921776ef62fa.mp3str"
+
+[deps]
+
+source_file="res://assets/audio/get rid of weeds.mp3"
+dest_files=["res://.godot/imported/get rid of weeds.mp3-c7dfb9a29a7e34d3b115921776ef62fa.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
